@@ -25,7 +25,7 @@ In this lab you will learn how to set-up a Cisco CSR1000V VPN connected to Azure
 
 Here is the overall topology of what will be deployed as part of this lab.
 
-![assets/azure-virtualwan-cisco-vpn-topology.png]
+![topology](https://github.com/bcosden/azure-cisco-bgp-lab/blob/master/assets/azure-virtualwan-cisco-vpn-topology.png)
 
 Let's begin
 
